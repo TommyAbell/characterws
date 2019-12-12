@@ -8,3 +8,6 @@ body {
   background-color: purple;
   font-size: 30px;
 }
+nav:hover {
+  color: green;
+}
